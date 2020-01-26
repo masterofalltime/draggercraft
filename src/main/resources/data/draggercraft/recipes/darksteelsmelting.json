@@ -1,0 +1,11 @@
+{
+  "group": "draggercraft",
+  "type": "minecraft:smelting",
+  "experience": 40,
+  "ingredient": {
+    "item": "draggercraft:ziandarksteel"
+  },
+  "result": {
+    "item": "draggercraft:darksteel"
+  }
+}

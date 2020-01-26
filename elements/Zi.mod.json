@@ -1,0 +1,56 @@
+{
+  "_fv": 4,
+  "_type": "dimension",
+  "definition": {
+    "portalFrame": {
+      "value": "CUSTOM:Zi_Portal_Block"
+    },
+    "portalParticles": {
+      "value": "SMOKE_NORMAL"
+    },
+    "portalLuminance": 0.0,
+    "portalSound": {
+      "value": "block.lava.ambient"
+    },
+    "igniterName": "Zi Portal Igniter",
+    "igniterTab": {
+      "value": "CUSTOM:DraggerStuff"
+    },
+    "texture": "raw_quantum",
+    "portalTexture": "temp_zi_portal",
+    "enablePortal": true,
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:ZiBiome"
+      }
+    ],
+    "worldGenType": "Normal world gen",
+    "mainFillerBlock": {
+      "value": "CUSTOM:ZiEarth"
+    },
+    "secondaryFillerBlock": {
+      "value": "CUSTOM:ZiEarth"
+    },
+    "tertiaryFillerBlock": {
+      "value": "CUSTOM:ZiEarth"
+    },
+    "fluidBlock": {
+      "value": "Blocks.LAVA"
+    },
+    "airColor": {
+      "value": -10665149,
+      "falpha": 0.0
+    },
+    "canRespawnHere": false,
+    "hasFog": false,
+    "hasWeather": true,
+    "isDark": false,
+    "doesWaterVaporize": true,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": true,
+    "imitateOverworldBehaviour": false,
+    "dimensionMusic": {
+      "value": ""
+    }
+  }
+}

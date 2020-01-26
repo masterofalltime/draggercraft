@@ -1,0 +1,42 @@
+{
+  "group": "draggercraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "draggercraft:darksteel"
+    },
+    "1": {
+      "item": "minecraft:piston"
+    },
+    "2": {
+      "item": "minecraft:redstone"
+    },
+    "3": {
+      "item": "draggercraft:darksteel"
+    },
+    "4": {
+      "item": "draggercraft:quantumring"
+    },
+    "5": {
+      "item": "draggercraft:darksteel"
+    },
+    "6": {
+      "item": "draggercraft:darksteel"
+    },
+    "7": {
+      "item": "draggercraft:darksteel"
+    },
+    "8": {
+      "item": "minecraft:glass_bottle"
+    }
+  },
+  "result": {
+    "item": "draggercraft:quantumlauncher",
+    "count": 1
+  }
+}

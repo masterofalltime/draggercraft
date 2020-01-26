@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "draggercraft:blocks/burnt_oak",
+    "up": "draggercraft:blocks/burnt_oak",
+    "north": "draggercraft:blocks/burnt_oak",
+    "east": "draggercraft:blocks/burnt_oak",
+    "south": "draggercraft:blocks/burnt_oak",
+    "west": "draggercraft:blocks/burnt_oak",
+    "particle": "draggercraft:blocks/burnt_oak"
+  }
+}

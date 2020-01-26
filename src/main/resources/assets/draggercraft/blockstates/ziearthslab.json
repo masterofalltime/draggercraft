@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "draggercraft:block/ziearthslab"
+    },
+    "facing=east": {
+      "model": "draggercraft:block/ziearthslab",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "draggercraft:block/ziearthslab",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "draggercraft:block/ziearthslab",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "draggercraft:block/ziearthslab",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "draggercraft:block/ziearthslab",
+      "x": 90
+    }
+  }
+}

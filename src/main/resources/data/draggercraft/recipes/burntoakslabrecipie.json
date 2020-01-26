@@ -1,0 +1,22 @@
+{
+  "group": "draggercraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "draggercraft:burntoakplanks"
+    },
+    "1": {
+      "item": "draggercraft:burntoakplanks"
+    },
+    "2": {
+      "item": "draggercraft:burntoakplanks"
+    }
+  },
+  "result": {
+    "item": "draggercraft:burntoakslab",
+    "count": 6
+  }
+}

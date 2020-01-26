@@ -1,0 +1,27 @@
+{
+  "group": "draggercraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "3 5",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "draggercraft:refinedquantum"
+    },
+    "3": {
+      "item": "draggercraft:refinedquantum"
+    },
+    "5": {
+      "item": "draggercraft:refinedquantum"
+    },
+    "7": {
+      "item": "draggercraft:refinedquantum"
+    }
+  },
+  "result": {
+    "item": "draggercraft:quantumring",
+    "count": 1
+  }
+}

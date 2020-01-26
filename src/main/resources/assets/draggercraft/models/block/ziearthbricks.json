@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "draggercraft:blocks/zi_earth_bricks",
+    "particle": "draggercraft:blocks/zi_earth_bricks"
+  }
+}

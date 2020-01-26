@@ -1,0 +1,19 @@
+{
+  "group": "draggercraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "draggercraft:quantumring"
+    },
+    "1": {
+      "item": "draggercraft:quantumgun1ring"
+    }
+  },
+  "result": {
+    "item": "draggercraft:quantumgun2ring",
+    "count": 1
+  }
+}

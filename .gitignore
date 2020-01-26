@@ -1,0 +1,11 @@
+run/
+.gradle/
+build/
+gradle-app.setting
+
+.mcreator
+.project
+.settings
+.classpath
+
+*.bak

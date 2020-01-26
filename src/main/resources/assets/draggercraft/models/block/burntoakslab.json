@@ -1,0 +1,8 @@
+{
+  "parent": "draggercraft:custom/aslab",
+  "textures": {
+    "all": "draggercraft:blocks/burnt_oak_planks",
+    "particle": "draggercraft:blocks/burnt_oak_planks",
+    "0": "draggercraft:blocks/burnt_oak_planks"
+  }
+}

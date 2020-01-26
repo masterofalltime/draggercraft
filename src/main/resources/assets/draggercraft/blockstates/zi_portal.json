@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "draggercraft:block/zi_portal_ew"
+    },
+    "axis=x": {
+      "model": "draggercraft:block/zi_portal_ns"
+    }
+  }
+}

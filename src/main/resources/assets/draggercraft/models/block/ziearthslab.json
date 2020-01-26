@@ -1,0 +1,8 @@
+{
+  "parent": "draggercraft:custom/slab",
+  "textures": {
+    "all": "draggercraft:blocks/zi_earth_bricks",
+    "particle": "draggercraft:blocks/zi_earth_bricks",
+    "0": "draggercraft:blocks/zi_earth_bricks"
+  }
+}

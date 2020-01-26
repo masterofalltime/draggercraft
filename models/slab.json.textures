@@ -1,0 +1,16 @@
+{
+  "mappings": {
+    "zibrickslab": {
+      "map": {
+        "0": "burnt_oak_planks"
+      },
+      "name": "zibrickslab"
+    },
+    "default": {
+      "map": {
+        "0": ""
+      },
+      "name": "default"
+    }
+  }
+}

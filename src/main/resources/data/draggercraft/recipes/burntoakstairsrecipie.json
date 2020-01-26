@@ -1,0 +1,33 @@
+{
+  "group": "draggercraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  2",
+    " 45",
+    "678"
+  ],
+  "key": {
+    "2": {
+      "item": "draggercraft:burntoakplanks"
+    },
+    "4": {
+      "item": "draggercraft:burntoakplanks"
+    },
+    "5": {
+      "item": "draggercraft:burntoakplanks"
+    },
+    "6": {
+      "item": "draggercraft:burntoakplanks"
+    },
+    "7": {
+      "item": "draggercraft:burntoakplanks"
+    },
+    "8": {
+      "item": "draggercraft:burntoakplanks"
+    }
+  },
+  "result": {
+    "item": "draggercraft:burntoakstairs",
+    "count": 4
+  }
+}

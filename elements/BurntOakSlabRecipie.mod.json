@@ -1,0 +1,43 @@
+{
+  "_fv": 4,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 6,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": "CUSTOM:BurntOakSlab"
+    },
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:BurntOakPlanks"
+      },
+      {
+        "value": "CUSTOM:BurntOakPlanks"
+      },
+      {
+        "value": "CUSTOM:BurntOakPlanks"
+      }
+    ],
+    "smeltingXPReward": 0.0,
+    "smeltingRetstackSize": 1
+  }
+}

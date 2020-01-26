@@ -1,0 +1,11 @@
+{
+  "group": "draggercraft",
+  "type": "minecraft:smelting",
+  "experience": 10,
+  "ingredient": {
+    "item": "draggercraft:rawquantum"
+  },
+  "result": {
+    "item": "draggercraft:refinedquantum"
+  }
+}

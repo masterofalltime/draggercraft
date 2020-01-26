@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "draggercraft:block/quantumcore"
+    },
+    "facing=east": {
+      "model": "draggercraft:block/quantumcore",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "draggercraft:block/quantumcore",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "draggercraft:block/quantumcore",
+      "y": 270
+    }
+  }
+}

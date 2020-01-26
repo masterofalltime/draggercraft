@@ -1,0 +1,43 @@
+{
+  "_fv": 4,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 6,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": "CUSTOM:Zi_Earth_Brick_Stairs"
+    },
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:ZiEarthBricks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:ZiEarthBricks"
+      },
+      {
+        "value": "CUSTOM:ZiEarthBricks"
+      },
+      {
+        "value": "CUSTOM:ZiEarthBricks"
+      },
+      {
+        "value": "CUSTOM:ZiEarthBricks"
+      },
+      {
+        "value": "CUSTOM:ZiEarthBricks"
+      }
+    ],
+    "smeltingXPReward": 0.0,
+    "smeltingRetstackSize": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "group": "draggercraft",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "draggercraft:ziearth"
+    },
+    {
+      "item": "draggercraft:ziearth"
+    },
+    {
+      "item": "draggercraft:ziearth"
+    },
+    {
+      "item": "draggercraft:ziearth"
+    }
+  ],
+  "result": {
+    "item": "draggercraft:ziearthbricks",
+    "count": 4
+  }
+}

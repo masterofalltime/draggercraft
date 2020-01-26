@@ -1,0 +1,13 @@
+{
+  "group": "draggercraft",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "draggercraft:burntoak"
+    }
+  ],
+  "result": {
+    "item": "draggercraft:burntoakplanks",
+    "count": 4
+  }
+}

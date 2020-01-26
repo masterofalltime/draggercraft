@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "facing=south": {
+      "model": "draggercraft:block/burntoak"
+    },
+    "facing=north": {
+      "model": "draggercraft:block/burntoak"
+    },
+    "facing=east": {
+      "model": "draggercraft:block/burntoak",
+      "x": 90
+    },
+    "facing=west": {
+      "model": "draggercraft:block/burntoak",
+      "x": 90
+    },
+    "facing=up": {
+      "model": "draggercraft:block/burntoak",
+      "x": 90,
+      "y": 90
+    },
+    "facing=down": {
+      "model": "draggercraft:block/burntoak",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

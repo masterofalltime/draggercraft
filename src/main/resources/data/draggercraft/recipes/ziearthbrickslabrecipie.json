@@ -1,0 +1,22 @@
+{
+  "group": "draggercraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "draggercraft:ziearthbricks"
+    },
+    "1": {
+      "item": "draggercraft:ziearthbricks"
+    },
+    "2": {
+      "item": "draggercraft:ziearthbricks"
+    }
+  },
+  "result": {
+    "item": "draggercraft:ziearthslab",
+    "count": 6
+  }
+}

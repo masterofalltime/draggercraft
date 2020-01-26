@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "burnt_oak_planks"
+      },
+      "name": "default"
+    }
+  }
+}

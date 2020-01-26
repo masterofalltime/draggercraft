@@ -1,0 +1,35 @@
+{
+  "_fv": 4,
+  "_type": "gun",
+  "definition": {
+    "renderType": 0,
+    "texture": "quantum_gun_1ring",
+    "customModelName": "Normal",
+    "name": "Quantum Gun 1Ring",
+    "creativeTab": {
+      "value": "CUSTOM:DraggerStuff"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": ""
+    },
+    "shootConstantly": false,
+    "usageCount": 500,
+    "actionSound": {
+      "value": "block.dispenser.launch"
+    },
+    "hasGlow": false,
+    "enableMeleeDamage": true,
+    "damageVsEntity": 1.0,
+    "bulletPower": 0.8,
+    "bulletDamage": 0.5,
+    "bulletKnockback": 1,
+    "bulletParticles": false,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": "CUSTOM:QuantumBullet"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": ""
+  }
+}

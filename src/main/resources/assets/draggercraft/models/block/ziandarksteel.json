@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "draggercraft:blocks/zian_dark_steel",
+    "up": "draggercraft:blocks/zian_dark_steel",
+    "north": "draggercraft:blocks/zian_dark_steel",
+    "east": "draggercraft:blocks/zian_dark_steel",
+    "south": "draggercraft:blocks/zian_dark_steel",
+    "west": "draggercraft:blocks/zian_dark_steel",
+    "particle": "draggercraft:blocks/zian_dark_steel"
+  }
+}

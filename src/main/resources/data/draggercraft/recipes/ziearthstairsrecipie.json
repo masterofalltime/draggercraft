@@ -1,0 +1,33 @@
+{
+  "group": "draggercraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  2",
+    " 45",
+    "678"
+  ],
+  "key": {
+    "2": {
+      "item": "draggercraft:ziearthbricks"
+    },
+    "4": {
+      "item": "draggercraft:ziearthbricks"
+    },
+    "5": {
+      "item": "draggercraft:ziearthbricks"
+    },
+    "6": {
+      "item": "draggercraft:ziearthbricks"
+    },
+    "7": {
+      "item": "draggercraft:ziearthbricks"
+    },
+    "8": {
+      "item": "draggercraft:ziearthbricks"
+    }
+  },
+  "result": {
+    "item": "draggercraft:zi_earth_brick_stairs",
+    "count": 6
+  }
+}

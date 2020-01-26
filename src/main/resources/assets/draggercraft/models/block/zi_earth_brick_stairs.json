@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "draggercraft:blocks/zi_earth_bricks",
+    "top": "draggercraft:blocks/zi_earth_bricks",
+    "side": "draggercraft:blocks/zi_earth_bricks"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "_fv": 4,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": "CUSTOM:QuantumGun1Ring"
+    },
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:QuantumRing"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:DarkSteel"
+      },
+      {
+        "value": "CUSTOM:DarkSteel"
+      },
+      {
+        "value": "CUSTOM:QuantumLauncher"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:DarkSteel"
+      }
+    ],
+    "smeltingXPReward": 0.0,
+    "smeltingRetstackSize": 1
+  }
+}
