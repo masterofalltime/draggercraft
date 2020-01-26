@@ -1,7 +1,8 @@
 {
   "block.draggercraft.zianquantum": "Zian Quantum",
-  "block.draggercraft.ziearthslab": "Zi Earth Brick Slab",
   "block.draggercraft.quantumcore": "Quantum Core",
+  "block.draggercraft.ziearthslab": "Zi Earth Brick Slab",
+  "biome.draggercraft.ziforestbiome": "Zi Forest Biome",
   "item.draggercraft.quantumbullet": "Quantum Bullet",
   "block.draggercraft.burntoak": "Burnt Oak",
   "item.draggercraft.refinedquantum": "Refined Quantum",
@@ -11,7 +12,7 @@
   "item.draggercraft.zian": "Zian Spawn Egg",
   "block.draggercraft.ziearth": "Zi Earth",
   "item.draggercraft.quantumlauncher": "Quantum Launcher",
-  "biome.draggercraft.zibiome": "Zi Biome",
+  "biome.draggercraft.zibiome": "Zi Mountain Biome",
   "block.draggercraft.ziearthbricks": "Zi Earth Bricks",
   "item.draggercraft.rawquantum": "Raw Quantum",
   "item.draggercraft.quantumgun1ring": "Quantum Gun 1Ring",

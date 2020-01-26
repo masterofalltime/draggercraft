@@ -44,7 +44,7 @@ public class MCreatorZianHut1 extends Elementsdraggercraft.ModElement {
 					dimensionCriteria = true;
 				if (!dimensionCriteria)
 					return false;
-				if ((random.nextInt(1000000) + 1) <= 50000) {
+				if ((random.nextInt(1000000) + 1) <= 25000) {
 					i += random.nextInt(16) + 8;
 					k += random.nextInt(16) + 8;
 					int j = world.getHeight(Heightmap.Type.OCEAN_FLOOR_WG, i, k);
@@ -63,6 +63,11 @@ public class MCreatorZianHut1 extends Elementsdraggercraft.ModElement {
 			}
 		};
 		for (Biome biome : ForgeRegistries.BIOMES.getValues()) {
+			boolean biomeCriteria = false;
+			if (ForgeRegistries.BIOMES.getKey(biome).equals(new ResourceLocation("draggercraft:ziforestbiome")))
+				biomeCriteria = true;
+			if (!biomeCriteria)
+				continue;
 			biome.addFeature(GenerationStage.Decoration.SURFACE_STRUCTURES,
 					Biome.createDecoratedFeature(feature, IFeatureConfig.NO_FEATURE_CONFIG, Placement.NOPE, IPlacementConfig.NO_PLACEMENT_CONFIG));
 		}

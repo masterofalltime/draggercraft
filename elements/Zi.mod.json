@@ -22,6 +22,9 @@
     "biomesInDimension": [
       {
         "value": "CUSTOM:ZiBiome"
+      },
+      {
+        "value": "CUSTOM:ZiForestBiome"
       }
     ],
     "worldGenType": "Normal world gen",

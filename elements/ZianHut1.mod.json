@@ -5,13 +5,17 @@
     "structure": "zian_hut1_fixed",
     "randomlyRotateStructure": true,
     "surfaceDetectionType": "First motion blocking block",
-    "spawnProbability": 50000,
+    "spawnProbability": 25000,
     "spawnLocation": "Ground",
     "spawnHeightOffset": -3,
     "spawnWorldTypes": [
       "CUSTOM:Zi"
     ],
     "restrictionBlocks": [],
-    "restrictionBiomes": []
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:ZiForestBiome"
+      }
+    ]
   }
 }

@@ -123,7 +123,8 @@ public class MCreatorZi extends Elementsdraggercraft.ModElement {
 
 	@Override
 	public void init(FMLCommonSetupEvent event) {
-		dimensionBiomes = new Biome[]{ForgeRegistries.BIOMES.getValue(new ResourceLocation("draggercraft:zibiome")),};
+		dimensionBiomes = new Biome[]{ForgeRegistries.BIOMES.getValue(new ResourceLocation("draggercraft:zibiome")),
+				ForgeRegistries.BIOMES.getValue(new ResourceLocation("draggercraft:ziforestbiome")),};
 	}
 
 	@Override
