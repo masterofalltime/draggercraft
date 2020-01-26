@@ -22,6 +22,7 @@ import net.minecraft.util.math.BlockPos;
 import net.minecraft.util.Rotation;
 import net.minecraft.util.ResourceLocation;
 import net.minecraft.util.Mirror;
+import net.minecraft.block.BlockState;
 
 import java.util.Random;
 
@@ -47,8 +48,14 @@ public class MCreatorZianHut1 extends Elementsdraggercraft.ModElement {
 				if ((random.nextInt(1000000) + 1) <= 25000) {
 					i += random.nextInt(16) + 8;
 					k += random.nextInt(16) + 8;
-					int j = world.getHeight(Heightmap.Type.OCEAN_FLOOR_WG, i, k);
+					int j = world.getHeight(Heightmap.Type.WORLD_SURFACE_WG, i, k);
 					j -= 1;
+					BlockState blockAt = world.getBlockState(new BlockPos(i, j, k));
+					boolean blockCriteria = false;
+					if (blockAt.getBlock() == MCreatorZiEarth.block.getDefaultState().getBlock())
+						blockCriteria = true;
+					if (!blockCriteria)
+						return false;
 					Template template = ((ServerWorld) world.getWorld()).getSaveHandler().getStructureTemplateManager()
 							.getTemplateDefaulted(new ResourceLocation("draggercraft", "zian_hut1_fixed"));
 					if (template == null)

@@ -11,7 +11,11 @@
     "spawnWorldTypes": [
       "CUSTOM:Zi"
     ],
-    "restrictionBlocks": [],
+    "restrictionBlocks": [
+      {
+        "value": "CUSTOM:ZiEarth"
+      }
+    ],
     "restrictionBiomes": [
       {
         "value": "CUSTOM:ZiForestBiome"
